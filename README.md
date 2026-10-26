@@ -1,6 +1,6 @@
 ### Hi, I'm Danylo <img src="assets/icons/hello.svg" width="22" height="22" alt="" align="absmiddle">
 
-I'm Head of AI at [YTC](https://ytc.company) in Kyiv, shipping production AI systems for enterprise. I'm also a PhD student in software engineering at Igor Sikorsky Kyiv Polytechnic Institute.
+I'm Chief AI Officer at [YTC](https://ytc.company) in Kyiv, shipping production AI systems for enterprise. I'm also a PhD student in agentic software engineering at Igor Sikorsky Kyiv Polytechnic Institute.
 
 <img src="assets/icons/research.svg" width="20" height="20" alt="" align="absmiddle"> **PhD research:** keeping LLM coding agents inside a repo's architecture. The agent's dependency plan gets checked against the repo's own import contracts before any code is written.<br>
 <img src="assets/icons/lapa.svg" width="20" height="20" alt="" align="absmiddle"> **Lapa LLM:** part of the team building [Lapa](https://huggingface.co/lapa-llm), an open Ukrainian LLM built to be the #1 model for Ukrainian<br>
