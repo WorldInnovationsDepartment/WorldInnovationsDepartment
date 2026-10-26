@@ -21,3 +21,4 @@ jobs:
           feed_list: "https://danylovorvul.com/feed.rss"
           max_post_count: 5
           commit_message: "Update latest writing"
+          enable_keepalive: false
