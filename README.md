@@ -23,5 +23,5 @@ I'm Head of AI at [YTC](https://ytc.company) in Kyiv, shipping production AI sys
 - [How to Build a First Brain](https://danylovorvul.com/blog/first-brain/)
 - [Alpine Grades](https://danylovorvul.com/blog/alpine-grades/)
 - [Experiment first, integrate later](https://danylovorvul.com/blog/experiment-first-integrate-later/)
-- [Agents Don't Scroll](https://danylovorvul.com/blog/agents-dont-scroll/)
+- [Agents Don&#39;t Scroll](https://danylovorvul.com/blog/agents-dont-scroll/)
 <!-- BLOG-POST-LIST:END -->
