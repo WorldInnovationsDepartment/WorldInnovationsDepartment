@@ -19,9 +19,9 @@ I'm Chief AI Officer at [YTC](https://ytc.company) in Kyiv, shipping production 
 #### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The retro tool I couldn&#39;t buy](https://danylovorvul.com/blog/retro-tool-i-couldnt-buy/)
 - [I asked an agent for submission guidelines. It found casino links.](https://danylovorvul.com/blog/submission-guidelines-and-casino-links/)
 - [How to Build a First Brain](https://danylovorvul.com/blog/first-brain/)
 - [Alpine Grades](https://danylovorvul.com/blog/alpine-grades/)
 - [Experiment first, integrate later](https://danylovorvul.com/blog/experiment-first-integrate-later/)
-- [Agents Don&#39;t Scroll](https://danylovorvul.com/blog/agents-dont-scroll/)
 <!-- BLOG-POST-LIST:END -->
