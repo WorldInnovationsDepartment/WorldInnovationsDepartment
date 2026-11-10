@@ -19,9 +19,9 @@ I'm Chief AI Officer at [YTC](https://ytc.company) in Kyiv, shipping production 
 #### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Mind the Mug](https://danylovorvul.com/blog/mind-the-mug/)
 - [Monkey See, Monkey Do](https://danylovorvul.com/blog/monkey-see-monkey-do/)
 - [Someone already did it](https://danylovorvul.com/blog/someone-already-did-it/)
 - [The Ultimate Personal Finance Guide Fits in One Sentence](https://danylovorvul.com/blog/ultimate-personal-finance-guide/)
 - [The working directory is not a fence](https://danylovorvul.com/blog/working-directory-not-a-fence/)
-- [The retro tool I couldn&#39;t buy](https://danylovorvul.com/blog/retro-tool-i-couldnt-buy/)
 <!-- BLOG-POST-LIST:END -->
